@@ -7,5 +7,6 @@ Commands like :<br />
 4.Get THe PID <br />
 5.Filter out details -TopCpu.png <br />
 are used. <br />
-Document with detailed information is also added. -WEEK5 
-[https://github.com/gunjan1831/Gunjan-Module1/blob/main/Operating-System/Assignment1/WEEK5.docx](doc:ProcessManagement)
+Document with detailed information is also added. 
+<br /> Click here 👇 <br />
+[Process Management](https://github.com/gunjan1831/Gunjan-Module1/blob/main/Operating-System/Assignment1/WEEK5.docx)
