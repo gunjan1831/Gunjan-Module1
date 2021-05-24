@@ -6,6 +6,7 @@ Commands like :<br />
 3.Terminate the process.<br />
 4.Get THe PID <br />
 5.Filter out details -TopCpu.png <br />
+6.Terminate multiple processes.<br />
 are used. <br />
 Document with detailed information is also added. 
 <br /> Click here 👇 <br />
