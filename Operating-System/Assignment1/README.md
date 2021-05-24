@@ -1,7 +1,7 @@
 Process Management 
 
 Commands like : 
-1.Get-Process 
+1.Get-Process<\n>
 2.Use Poweshell to open Applications
 3.Terminate the process.
 4.Get THe PID 
